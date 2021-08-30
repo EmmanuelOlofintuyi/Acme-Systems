@@ -9,8 +9,7 @@ public class HelloWorld {
 	public static void heyNow() {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
-		
-	}
+  }
 
 	public static void whatFor() {
 		String Msg = "What For!";
